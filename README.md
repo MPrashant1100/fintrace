@@ -1,0 +1,1 @@
+FinTrace = a local expense tracking system
