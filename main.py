@@ -11,10 +11,10 @@ def main():
     expenses = load_expenses()
 
     new_expense = {
-        "amount": 250,
+        "amount": 550,
         "category": "food",
-        "description": "Lunch",
-        "date": "2026-01-19"
+        "description": "Dinner",
+        "date": "2026-02-01"
     }
 
     logger.info("Validating new expense")
